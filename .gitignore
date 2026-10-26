@@ -4,3 +4,10 @@ Thumbs.db
 
 # VS Code local settings
 .vscode/
+
+# Local previews and QA artifacts
+output/
+.playwright/
+.playwright-cli/
+.vercel/
+__pycache__/
